@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 
 
-# - 👋 Olá! Meu nome é Fábio!
+# - 👋 Olá!
 
 - Sou apaixonado por tecnologia, gosto de programar e estou aprendendo muito na área.
 
-Cursando Engenharia da Computação, término previsto para o ano de 2029.
-Sou especialista em Segurança da Informação, pós graduação pela Unisagrado.
-Tecnólogo em Gestão da Informação pela Fatec.
+Cursando Engenharia da Computação, com término previsto para o ano de 2029.
+Sou especialista em Segurança da Informação, pós graduado pela Unisagrado Bauru.
+Tecnólogo em Gestão da Informação pela Fatec Jaú.
 
 ## Conecte-se Comigo
 
