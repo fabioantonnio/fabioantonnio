@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - Sou apaixonado por tecnologia, gosto de programar e estou aprendendo muito na área.
 
-Cursando Engenharia da Computação, com término previsto para o ano de 2029.
-Sou especialista em Segurança da Informação, pós graduado pela Unisagrado Bauru.
-Tecnólogo em Gestão da Informação pela Fatec Jaú.
+Cursando Engenharia da Computação, com término previsto para o ano de 2029.<br>
+Sou especialista em Segurança da Informação, pós graduado pela Unisagrado Bauru.<br>
+Tecnólogo em Gestão da Informação pela Fatec Jaú.<br>
 
 ## Conecte-se Comigo
 
