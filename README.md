@@ -110,9 +110,8 @@ Aplicativo para controle financeiro pessoal, comparação de preços entre merca
 
 ## 🌐 Contato
 
-* GitHub: https://github.com/SEU_USUARIO
-* LinkedIn: https://linkedin.com/in/SEU_PERFIL
-* E-mail: SEU_EMAIL
+* GitHub: https://github.com/fabioantonnio
+* E-mail: fabio.antonnio@outlook.com
 
 ---
 
