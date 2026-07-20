@@ -116,9 +116,9 @@ Controle financeiro inteligente com leitura de notas fiscais, comparação de pr
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabioantonnio&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioantonnio&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -128,7 +128,7 @@ Controle financeiro inteligente com leitura de notas fiscais, comparação de pr
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=fabioantonnio&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Controle financeiro inteligente com leitura de notas fiscais, comparação de pr
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fabioantonnio&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Controle financeiro inteligente com leitura de notas fiscais, comparação de pr
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabioantonnio&theme=tokyo-night"/>
 
 </p>
 
@@ -158,7 +158,7 @@ Controle financeiro inteligente com leitura de notas fiscais, comparação de pr
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/fabioantonnio/fabioantonnio/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -191,15 +191,11 @@ Controle financeiro inteligente com leitura de notas fiscais, comparação de pr
 
 <p>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/fabioantonnio">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_PERFIL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:fabio.antonnio@outlook.com">
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
