@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Fabio Antonio
 
-🎓 Estudante de **Engenharia da Computação**
-💻 Desenvolvedor de aplicações Mobile, Web e Desktop
-🤖 Entusiasta de Inteligência Artificial, Automação e Desenvolvimento de Software
-🇧🇷 Brasil
+🎓 Estudante de **Engenharia da Computação** <br>
+💻 Desenvolvedor de aplicações Mobile, Web e Desktop <br>
+🤖 Entusiasta de Inteligência Artificial, Automação e Desenvolvimento de Software <br>
+🇧🇷 Brasil <br>
 
 ---
 
