@@ -3,6 +3,7 @@
 🎓 Estudante de **Engenharia da Computação** <br>
 💻 Desenvolvedor de aplicações Mobile, Web e Desktop <br>
 🤖 Entusiasta de Inteligência Artificial, Automação e Desenvolvimento de Software <br>
+🖥️ Especialista em Segurança da Informação <br>
 🇧🇷 Brasil <br>
 
 ---
