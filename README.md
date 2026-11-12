@@ -102,11 +102,6 @@ Aplicativo para controle financeiro pessoal, comparação de preços entre merca
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabioantonnio\&show_icons=true\&theme=tokyonight)
-
-
 ---
 
 ---
